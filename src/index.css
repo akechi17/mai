@@ -156,7 +156,8 @@ body.neg {
   background: var(--color-noir);
   color: var(--color-blanc);
 }
-body.hidden {
+body.hidden,
+body.loading {
   overflow: hidden;
 }
 html {

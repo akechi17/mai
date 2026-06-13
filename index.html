@@ -158,7 +158,8 @@
         background: var(--color-noir);
         color: var(--color-blanc);
       }
-      body.hidden {
+      body.hidden,
+      body.loading {
         overflow: hidden;
       }
       html {
@@ -238,7 +239,27 @@
     </style>
   </head>
   <body>
-    <div id="root"></div>
+    <div id="root">
+      <div id="initial-loader" style="
+        position: fixed; inset: 0; z-index: 999999;
+        display: flex; flex-direction: column; align-items: center; justify-content: center;
+        background: #f4f3ed; color: #171717;
+      ">
+        <p style="
+          font: 700 normal clamp(24px,5vw,64px)/1.1 'NeueMontreal',sans-serif;
+          text-transform: uppercase; letter-spacing: 0.08em; margin-bottom: 2rem;
+        ">
+          Rafie <span style="display:block;font-size:0.6em">&amp;</span> Maira
+        </p>
+        <div style="width:clamp(160px,30vw,320px);height:2px;background:rgba(23,23,23,0.15);border-radius:1px">
+          <div id="initial-loader-bar" style="width:0%;height:100%;background:#171717;border-radius:1px"></div>
+        </div>
+        <span style="
+          font: 500 normal 14px/1 'NeueMontreal',sans-serif; color: #171717;
+          opacity: 0.7; margin-top: 2rem;
+        ">Loading</span>
+      </div>
+    </div>
     <script type="module" src="/src/main.jsx"></script>
   </body>
 </html>
