@@ -1,0 +1,10 @@
+export { default as Header } from "./Header";
+export { default as Hero } from "./Hero";
+export { default as HomePageTitle } from "./HomePageTitle";
+export { default as HomePageProject } from "./projects/HomePageProject";
+export { default as Projects } from "./projects/Projects";
+export { default as Footer } from "./footer/Footer";
+export { default as KineticOne } from "./KineticOne";
+export { default as KineticTwo } from "./KineticTwo";
+export { default as KineticThree } from "./KineticThree";
+export { default as Media } from "./Media";

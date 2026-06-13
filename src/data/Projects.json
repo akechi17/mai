@@ -1,0 +1,27 @@
+[
+  {
+    "name": "aeon tanjung barat",
+    "images": [
+      "/images/aeon/1 - copy.jpg",
+      "/images/aeon/2.jpg"
+    ],
+    "videos": ["/images/aeon/1.MOV", "/images/aeon/2.MOV", "/images/aeon/3.MOV"],
+    "info": "Ini pertama kalinya kita jalan-jalan bareng setelah kenalan di jco AHAHAHAH. biasanya tuh aku kalau ke aeon udah bosen banget sebenernya ga tau mau ngapain selain jajan sushi. tapi ternyata seru juga jalan jalan di aeon pas sama kamu wkwkwk.",
+    "description": "di sini kita main di fun worldd, yang paling asik menurutku pas kita main tembak-tembakan zombie, kamu jago banget soalnyaa. terus pas main dart dan main basket juga seruu banget. terus abis itu kita jajan rotii dan foto foto di photobooth!",
+    "music": "/musics/the perfect pair.mp3"
+  },
+  {
+    "name": "kidzania",
+    "images": [
+      "/images/kidzania/1.jpg",
+      "/images/kidzania/2.jpg",
+      "/images/kidzania/3.jpg",
+      "/images/kidzania/4.jpg",
+      "/images/kidzania/5.jpg"
+    ],
+    "videos": [],
+    "info": "ini momen paling seru menurut aku. karena aku udah lama banget mau jalan jalan ke kidzania, karena terakhir ke sini pas aku masih kecil ahahaha. dan ternyata seru bangett pas ke sini sama kamu, kita jadi bisa nyoba banyak profesi. mulai dari di biznet, kamu jadi lumayan tau kerja di bidang IT kayak aku rasanya kayak gimana AHHAHA. terus kita lanjut bikin cookies, ini juga asik bangettt. kapan kapan harus coba buat lagi, nanti aku minta mama aku ajarin kita HAHAHA. terus kita jadi dokter kecantikan, jadi arkeolog dan disuap sama abang kidzanianya buat kuburin tulang lagi hahaha.",
+    "description": "terus kita lanjut jadi peternak sapi, sapi kita namanya mimi. terus lanjut jadi dokter gigi, keren banget di sini outfit kitaa. terus lanjut bikin sim dan balapan, tapi aku yang menang dong pastinyaa hahaha. terus kita lanjut jadi prama dan prami di kai, jujur di sini kamu cocok banget sama outfitnya, bahkan temen temen kamu banyak yang ketipu wkwkwk. dan pas pulangnya aku bener bener happy karena ternyata jalan jalan naik transum dan liat city lights malem malem tuh asik banget, thank you maiii",
+    "music": "/musics/bad.mp3"
+  }
+]
